@@ -1,4 +1,3 @@
-# ricadinho
+# RICADINHO's cookbook
 
-A new Flutter project.
-# cookbook
+A flutter app that i'm creating to store my recipes
